@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Shipping_Data_Erling_Munguia/cmake-build-debug/CMakeFiles/Shipping_Data_Erling_Munguia.dir
+C:/Users/User/CLionProjects/Shipping_Data_Erling_Munguia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Shipping_Data_Erling_Munguia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
